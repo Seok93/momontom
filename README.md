@@ -11,4 +11,4 @@ Momentum 크롬 확장 프로그램 클론 코딩 (VanillaJS 연습)
 5. Offline Support
 
 # 보기
-<https://seok93.github.io/momontom/>
+<https://seok93.github.io/momontom-clone/>
